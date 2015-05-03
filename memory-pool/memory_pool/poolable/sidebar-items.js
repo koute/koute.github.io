@@ -1,0 +1,1 @@
+initSidebarItems({"trait":[["Poolable","A trait for objects that internally use a dynamically allocated buffer which can be safely reused in new instances of those (or other `Poolable`) objects."]]});
