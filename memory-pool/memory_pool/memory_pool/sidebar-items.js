@@ -1,1 +1,0 @@
-initSidebarItems({"fn":[["acquire","Constructs an object of type `T` with memory from the thread-local pool."],["borrow","Constructs a temporary instance of `T` using the memory from the thread-local pool."],["release","Destroys the `value` and transfers its internal memory buffer back into the thread-local pool."]]});
