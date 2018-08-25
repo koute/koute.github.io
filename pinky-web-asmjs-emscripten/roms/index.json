@@ -46,5 +46,9 @@
     {
         "name": "Yun",
         "file": "yun.nes"
+    },
+    {
+        "name": "Trollburner",
+        "file": "trollburner_demo.nes"
     }
 ]
